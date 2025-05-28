@@ -6,7 +6,7 @@ This repo is for form submission automation test
 
 ## Overview
 
-formSubmissionAutomationTest is a project for UI testing of web forms using Playwright. This guide will help you set up Playwright, configure it, and run your tests effectively.
+PlaywrightPKT is a project for UI testing of web forms using Playwright.
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ formSubmissionAutomationTest is a project for UI testing of web forms using Play
 
 ## How to run
 
-- run this command `npm run test`
+- run this command `npm run test:allure`
 
 ### Report
 - Once the test is complete, html report will be displayed automatically.
