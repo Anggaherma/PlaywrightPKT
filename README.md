@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+w<<<<<<< HEAD
 # PlaywrightPKT
 =======
 # UI Automation Test
@@ -7,6 +7,28 @@ This repo is for form submission automation test
 ## Overview
 
 PlaywrightPKT is a project for UI testing of web forms using Playwright.
+
+## Folder structure
+📦 root
+├── 📂 pages
+│   ├── 📄 HomePage.js
+│   ├── 📄 LoginPage.js
+│   └── 📄 PengumumanPage.js
+├── 📂 resources
+│   └── 📄 data.json
+├── 📂 selectors
+│   ├── 📄 homeSelectors.js
+│   ├── 📄 loginSelectors.js
+│   └── 📄 pengumumanSelectors.js
+├── 📂 tests
+│   ├── 📄 home.spec.js
+│   ├── 📄 invalidLogin.spec.js
+│   └── 📄 pengumuman.spec.js
+├── 📄 .gitignore
+├── 📄 README.md
+├── 📄 package-lock.json
+├── 📄 package.json
+└── 📄 playwright.config.js
 
 ## Prerequisites
 
