@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://pktpp.pupukkaltim.com/",
+  "validCredential": {
+    "username": "anggatest",
+    "password": "Password123"
+  },
+  "invalidCredential": {
+    "username": "anggatest",
+    "password": "WrongPassword"
+  }
+}
