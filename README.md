@@ -30,6 +30,8 @@ PlaywrightPKT is a project for UI testing of web forms using Playwright.
     ├── package.json
     └── playwright.config.js
 
+
+
 ## Prerequisites
 
 - Node.js (version 21 or lower) to avoid version compatibility issues
