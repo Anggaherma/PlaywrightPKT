@@ -52,6 +52,10 @@ PlaywrightPKT is a project for UI testing of web forms using Playwright.
    ```bash
    npx playwright install
    ```
+4. Install allure-playwright:
+    ```bash
+    npm install -D allure-playwright
+    ```
 
 ## How to run
 
